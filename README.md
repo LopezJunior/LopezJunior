@@ -1,5 +1,5 @@
 ### Olá! Me chamo Mauricio Lopes Santana Junior
-- 🌱 Desenvolvedor Full Stack!
+- 🌱 Desenvolvedor Full Stack
 - 👯 Contate-me no email: mauriciolpzjunior@gmail.com
 
 <div display:"flex">
